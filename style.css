@@ -1,0 +1,74 @@
+header {
+	font-family: 'Great Vibes', cursive;
+	font-size: 45px;
+	letter-spacing: 5px;
+	padding: 30px;
+	color: #ECD5BB;
+}
+
+header > h2 {
+	font-family: monospace, Helvetica, sans-serif;
+	letter-spacing: 2px;
+	font-size: large;
+}
+
+footer {
+	font-family: 'Great Vibes', cursive;
+	padding: 10px;
+	position: relative;
+  	bottom: 0;
+  	width: 100%;
+  	height: 3rem;   
+}
+
+header, footer {
+	text-align: center;
+	margin: 0;
+	background: #0B1C48;
+	color: #ECD5BB;
+}
+
+body {
+    height:100%;
+    margin:0;
+    padding:0;
+	background: #ECD5BB;
+}
+
+main {
+	background: #ECD5BB;
+	text-align: center;
+}
+h1 {
+    margin:0;
+    padding:0
+}
+
+h2 {
+	font-family: 'Shadows Into Light', cursive;
+}
+
+hr {
+	width:60%;
+    margin:0 auto;
+}
+
+img {
+  border-radius: 10%;
+  padding: 30px;
+  width: 150px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+  filter: drop-shadow(0 0 0.75rem darkblue);
+}
+
+
+section {
+	padding: 0 30%;
+  	margin: 80px 0;
+	font-size: x-large;
+	font-family:  Helvetica, Arial, sans-serif;
+}
+
